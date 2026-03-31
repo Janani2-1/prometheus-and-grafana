@@ -1,4 +1,6 @@
-# grafana installatiom
+# prometheus-graphana installatiom
+
+#graphana installation
 $sudo su
 $wget https://dl.grafana.com/enterprise/release/grafana-enterprise-11.1.4.linux-amd64.tar.gz
 $ls
